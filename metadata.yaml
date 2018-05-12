@@ -1,0 +1,38 @@
+_repo: The-Stephens-Family--A-Genealogy-of-the-Descendants-of-Joshua-Stevens_26173
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Bower, Alonzo Smith
+    gutenberg_agent_id: '31848'
+    url: http://www.gutenberg.org/2009/agents/31848
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stephens, Bascom Asbury Cecil
+    gutenberg_agent_id: '31847'
+    url: http://www.gutenberg.org/2009/agents/31847
+description: Joshua ap Stephens ap Evans immigrated with his brothers, Ebenezer and
+  David, from Wales to Philadelphia before 1733, and settled in Philadelphia (how
+  Berks) County, Pennsylvania. His name was anglicized to Joshua Stephens Sr. Joshua
+  Stephens Jr. (1733-1823), a son, married Priscilla Humphreys in 1771, and served
+  in the Revolu- tionary War. After the war, they moved to land near Warm Springs,
+  Virginia, then to land near Lexington, Kentucky, and finally to land near Chillicothe,
+  Ohio (in either Ross or Franklin Counties). About 1816, he moved to Shelby County,
+  Ohio to live with two sons. Descendants and relatives lived in Pennsylvania, Virginia,
+  Kentucky, Ohio, Michigan, Nebraska, Kansas, California and elsewhere. Includes at
+  least two generations in Wales before Joshua Stephens Sr.
+gutenberg_issued: '2008-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26173'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CS'
+- !lcsh 'Stevens family'
+title: 'The Stephens Family: A Genealogy of the Descendants of Joshua Stevens'
+url: http://www.gutenberg.org/ebooks/26173
